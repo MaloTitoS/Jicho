@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Jicho</string>
+    <string name="capture_evidence">Capture</string>
+    <string name="welcmTxt">WELCOME</string>
+    <string name="mainTxt">Voluntary sharing of incident information
+between state, local, tribal, and territorial (SLTT) law enforcement
+        and the government is important to ensuring a safe and secure country.
+        This document details different ways SLTT law enforcement partners can report
+        suspected or confirmed incidents to the Law enforcers. No matter which “door” SLTT law enforcement uses,
+        information is shared within the government to provide an appropriate response while protecting citizens’
+        privacy and civil liberties under the law.
+    </string>
+
+    <string name="btnCapture">Capture</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet_create_one">No account yet? Create one</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="logo">logo</string>
+
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="or">(or)</string>
+    <string name="btnUploadToServer">Upload to Server</string>
+    <string name="action_settings">Settings</string>
+    <string name="disclaimer">This application is for proposal purposes</string>
+    <string name="capt_instruction"> Click on the capture evidence of the crime,video audio or combination of the two are accepted</string>
+
+    /*Activity Discription*/
+    <string name="next">Next</string>
+
+    <string name="describe_hint">Describe the incidence in your own words not forgetting your region reporting</string>
+    <string name="submit">Submit</string>
+    <string name="instructions">Please fill the following form and press submit button</string>
+    <string name="finish">Finish</string>
+    <string name="send">Send</string>
+    <string name="message">Describe Crime :</string>
+    <string name="subject">Region of Crime :</string>
+    <string name="please_fill_the_details_below_so_as_to_be_sent_to_the_relevant_authorities">Please fill the details below so as to be sent to the relevant authorities</string>
+
+
+</resources>
